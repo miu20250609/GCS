@@ -1,0 +1,6 @@
+
+*.log
+*.baiduyun.p.downloading
+.vscode/
+
+*.mp4
